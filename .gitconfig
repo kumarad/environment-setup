@@ -1,0 +1,5 @@
+[user]
+	name = Aditya Kumar
+	email = aditya.kumar@gmail.com
+[pull]
+	rebase = true
